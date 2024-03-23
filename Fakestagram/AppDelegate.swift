@@ -11,7 +11,7 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
-
+    // Aqui en esta funcion didFinishLaunchingWithOptions es antes de que se termine de finalizar la app
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
